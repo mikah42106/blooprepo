@@ -1,0 +1,14 @@
+Package: com.blooprepo.defaultdark
+Name: Default Theme But Dark
+Version: 1.0
+Architecture: iphoneos-arm
+Description: I just turned default icons into dark mode!
+Maintainer: Bloop
+Author: Bloop
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/darktheme.deb
+Size: 148400
+MD5sum: 49264c093d0f2054424b8a87650628eb
+SHA1: 92baefa16919e38f8D13e174ee3edcb54ac94770
+SHA256: 5176522bd15fc6103e6b1acc8becc8747f0ea5e895afa444adc72e402edad314
